@@ -34,8 +34,7 @@ Welcome to my **HCI Projects Repository**! This is a collection of my work in **
 
 ## 📢 Let's Connect!  
 📩 **Email:** jtlumacang@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-🌐 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)  
+💼 **LinkedIn:** [https://www.linkedin.com/in/jhonmark-tecson-lumacang-611186359?trk=contact-info](https://www.linkedin.com/in/jhonmark-tecson-lumacang-611186359?trk=contact-info)  
 
 ---
 
